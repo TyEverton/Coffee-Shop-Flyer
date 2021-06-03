@@ -1,0 +1,23 @@
+body {
+  background-color: rgba(85, 68, 68, 0.993);
+}
+
+.header {
+  color: white;
+}
+
+.contact-section {
+  color: white
+}
+
+.coffee {
+  height: 450px;
+  width: 450px;
+  margin: auto;
+  margin-top: 150px;
+  margin-left: 35%;
+
+}
+.coffee:hover {
+  transform: scale(1.5);
+}
